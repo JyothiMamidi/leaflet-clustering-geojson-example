@@ -1,5 +1,5 @@
 # Leaflet and GeoJSON clustering example
-This is an example of loading a GeoJSON file and clustering the data points into Leaflet. The sample data was extracted from [MapZen](https://mapzen.com/data/metro-extracts/). Checkout the [example](http://walleyyang.github.io/examples/leaflet-clustering-geojson/index.html) of this repo.
+This is an example of loading a GeoJSON file and clustering the data points into Leaflet. The sample data was extracted from [MapZen](https://mapzen.com/data/metro-extracts/). Checkout the [example](http://walleyyang.github.io/examples/leaflet-clustering-geojson-example/index.html) of this repo.
 
 #### Versions
 * Leaflet 0.0.7
