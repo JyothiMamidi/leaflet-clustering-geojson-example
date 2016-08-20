@@ -4,6 +4,6 @@ This is an example of loading a GeoJSON file and clustering the data points into
 #### Versions
 * Leaflet 0.0.7
 <br>
-* [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster/blob/leaflet-0.7/example/realworld.10000.js) plugin using leaflet-0.7 branch
+* [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster/tree/leaflet-0.7) plugin using leaflet-0.7 branch
 <br>
 * jQuery 3.1.0
