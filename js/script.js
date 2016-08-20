@@ -20,6 +20,6 @@ $.getJSON('data/sample.geojson', function(data) {
   });
   // Add geoJsonLayer to markercluster group
   markers.addLayer(geoJsonLayer);
-  // Add the markercluster gropu to the map
+  // Add the markercluster group to the map
   map.addLayer(markers);
 });
